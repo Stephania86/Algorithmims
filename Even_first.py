@@ -8,7 +8,7 @@ def even_first(arr):
     next_even = 0
     next_odd = len(arr) - 1
 
-    while next_even < next odd:
+    while next_even < next_odd:
         if arr[next_even] % 2 == 0:
             next_even += 1
         else:
